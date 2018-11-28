@@ -1,0 +1,9 @@
+[submodule "GameNetworkingSockets"]
+	path = GameNetworkingSockets
+	url = https://github.com/ValveSoftware/GameNetworkingSockets.git
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/openssl/openssl.git
+[submodule "protobuf"]
+	path = protobuf
+	url = https://github.com/google/protobuf
